@@ -2,3 +2,4 @@ flask
 onnxruntime
 pillow
 numpy
+gdown
